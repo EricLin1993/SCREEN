@@ -1,6 +1,6 @@
 
 
-![RTOC_SCREEN](https://github.com/EricLin1993/SCREEN/assets/52909835/bbe305b3-88a3-4226-aa34-294c4cefddf7)
+  ![RTOC_SCREEN](https://github.com/EricLin1993/SCREEN/assets/52909835/bbe305b3-88a3-4226-aa34-294c4cefddf7)
 
 
 SCREEN is a CS based general NMR spectrascopy sparse sampling reconstruction, which is not only effective for conventional Fourier NMR but also for Lapalce NMR.
